@@ -4,6 +4,7 @@ theme:
   name: material
   language: zh
   font: false
+  favicon: assets/archive-edit-outline.png
   icon:
     logo: material/archive-edit-outline
   palette:
