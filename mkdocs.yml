@@ -3,11 +3,14 @@ site_url: https://riley192.github.io/hard-groove/
 theme:
   name: material
   language: zh
+exclude_docs: |
+  .obsidian
+  .obsidian/*
 nav:
   - 首页: index.md
   - 记账鸭帮助中心:
     - 项目首页: jizhangya/index.md
-    - home: jizhangya/index en.md
+    - English Home: jizhangya/index en.md
     - 快速上手:
       - 第一次记账：从安装到记下第一笔: jizhangya/quickstart/quick start first-record.md
     - 操作指南:
@@ -30,3 +33,6 @@ nav:
     - 更新日志:
       - v2.0: jizhangya/release notes/release notes v2.0.md
     - 反馈与支持: jizhangya/support.md
+  - 其他练习:
+    - 练习一: exercises1.md
+    - 练习二: exercises2.md
