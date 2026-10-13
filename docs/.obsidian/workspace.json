@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "06ec6c8f71528c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b401fbf59a4ea2de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5779bb1579c41a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jizhangya/release notes/release notes v2.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "release notes v2.0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82d4ddaa4a981ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db669738c426d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec545a7fbdfed74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "54344c218c83a384",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b67900712fceda15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8539aa8f92a6a8ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1853986359302d30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82421cfede45e550",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "exercises1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "62b120dca298834a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "exercises1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "11ce40d41d805c33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0499fe80176c085e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a7302a9482be0885",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "exercises1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "5779bb1579c41a71",
+  "lastOpenFiles": [
+    "jizhangya/index en.md",
+    "jizhangya/index.md",
+    "jizhangya/support.md",
+    "jizhangya/reference/system-requirements.md",
+    "jizhangya/release notes/release notes v2.0.md",
+    "jizhangya/release notes/release notes.md",
+    "jizhangya/release notes",
+    "jizhangya/新建文件夹",
+    "jizhangya/glossary.md",
+    "jizhangya/reference/export-formats.md",
+    "jizhangya/reference/expense-categories.md",
+    "jizhangya/reference/error-messages.md",
+    "jizhangya/release notes.md",
+    "jizhangya/reference.md",
+    "jizhangya/reference",
+    "jizhangya/explanation/how-sync-works.md",
+    "jizhangya/explanation/why-budget.md",
+    "jizhangya/troubleshooting/export-failed.md",
+    "jizhangya/explanation.md",
+    "jizhangya/explanation",
+    "jizhangya/troubleshooting/sync-failed.md",
+    "jizhangya/how-to guides/sync-devices.md",
+    "jizhangya/troubleshooting",
+    "jizhangya/how-to guides/set-budget.md",
+    "jizhangya/how-to guides/export-bills.md",
+    "jizhangya/how-to guides/delete-account.md",
+    "jizhangya/how-to guides/add-expense.md",
+    "jizhangya/troubleshooting.md",
+    "jizhangya/how-to guides",
+    "jizhangya/quickstart/quick start first-record.md",
+    "jizhangya/quickstart/quick start-first-record.md",
+    "jizhangya/quickstart/quick start.md",
+    "jizhangya/quickstart"
+  ]
+}
