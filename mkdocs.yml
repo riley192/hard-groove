@@ -1,8 +1,24 @@
-site_name: 我的文档作品集
+site_name: 作品集
 site_url: https://riley192.github.io/hard-groove/
 theme:
   name: material
   language: zh
+  font: false
+  icon:
+    logo: material/archive-edit-outline
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
 exclude_docs: |
   .obsidian
   .obsidian/*
