@@ -4,4 +4,4 @@
 
 ## 项目
 
-- [记账鸭帮助中心](jizhangya/index.md)：虚拟记账软件的用户帮助文档（撰写中）
+- [某记账软件帮助中心](example-bookkeeping-app/index.md)：虚拟记账软件的用户帮助文档（撰写中）

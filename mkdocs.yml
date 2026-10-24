@@ -25,28 +25,28 @@ exclude_docs: |
   .obsidian/*
 nav:
   - 首页: index.md
-  - 记账鸭帮助中心:
-    - 项目首页: jizhangya/index.md
-    - English Home: jizhangya/index en.md
+  - 某记账软件帮助中心:
+    - 项目首页: example-bookkeeping-app/index.md
+    - English Home: example-bookkeeping-app/index en.md
     - 快速上手:
-      - 第一次记账：从安装到记下第一笔: jizhangya/quickstart/quick start first-record.md
+      - 第一次记账：从安装到记下第一笔: example-bookkeeping-app/quickstart/quick start first-record.md
     - 操作指南:
-      - 记录一笔支出: jizhangya/how-to guides/add-expense.md
-      - 设置分类月度预算: jizhangya/how-to guides/set-budget.md
-      - 导出账单（CSV / Excel / PDF）: jizhangya/how-to guides/export-bills.md
-      - 多设备同步: jizhangya/how-to guides/sync-devices.md
-      - 删除账号: jizhangya/how-to guides/delete-account.md
+      - 记录一笔支出: example-bookkeeping-app/how-to guides/add-expense.md
+      - 设置分类月度预算:example-bookkeeping-app/how-to guides/set-budget.md
+      - 导出账单（CSV / Excel / PDF）: example-bookkeeping-app/how-to guides/export-bills.md
+      - 多设备同步: example-bookkeeping-app/how-to guides/sync-devices.md
+      - 删除账号: example-bookkeeping-app/how-to guides/delete-account.md
     - 排障:
-      - 同步失败怎么办: jizhangya/troubleshooting/sync-failed.md
-      - 导出失败怎么办: jizhangya/troubleshooting/export-failed.md
+      - 同步失败怎么办: example-bookkeeping-app/troubleshooting/sync-failed.md
+      - 导出失败怎么办: example-bookkeeping-app/troubleshooting/export-failed.md
     - 概念解释:
-      - 为什么要做预算: jizhangya/explanation/why-budget.md
-      - 云同步是怎么工作的: jizhangya/explanation/how-sync-works.md
+      - 为什么要做预算: example-bookkeeping-app/explanation/why-budget.md
+      - 云同步是怎么工作的: example-bookkeeping-app/explanation/how-sync-works.md
     - 参考:
-      - 平台与系统要求: jizhangya/reference/system-requirements.md
-      - 导出格式说明: jizhangya/reference/export-formats.md
-      - 支出类别列表: jizhangya/reference/expense-categories.md
-      - 错误信息一览: jizhangya/reference/error-messages.md
+      - 平台与系统要求: example-bookkeeping-app/reference/system-requirements.md
+      - 导出格式说明: example-bookkeeping-app/reference/export-formats.md
+      - 支出类别列表: example-bookkeeping-app/reference/expense-categories.md
+      - 错误信息一览: example-bookkeeping-app/reference/error-messages.md
     - 更新日志:
-      - v2.0: jizhangya/release notes/release notes v2.0.md
-    - 反馈与支持: jizhangya/support.md
+      - v2.0: example-bookkeeping-app/release notes/release notes v2.0.md
+    - 反馈与支持: example-bookkeeping-app/support.md
