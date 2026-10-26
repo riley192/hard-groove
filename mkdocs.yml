@@ -3,6 +3,7 @@ site_url: https://riley192.github.io/hard-groove/
 theme:
   name: material
   language: zh
+  custom_dir: overrides
   font: false
   favicon: assets/archive-edit-outline.png
   icon:
@@ -20,6 +21,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: 切换到浅色模式
+extra:
+  analytics:
+    provider: custom
 exclude_docs: |
   .obsidian
   .obsidian/*
@@ -32,7 +36,7 @@ nav:
       - 第一次记账：从安装到记下第一笔: example-bookkeeping-app/quickstart/quick start first-record.md
     - 操作指南:
       - 记录一笔支出: example-bookkeeping-app/how-to guides/add-expense.md
-      - 设置分类月度预算:example-bookkeeping-app/how-to guides/set-budget.md
+      - 设置分类月度预算: example-bookkeeping-app/how-to guides/set-budget.md
       - 导出账单（CSV / Excel / PDF）: example-bookkeeping-app/how-to guides/export-bills.md
       - 多设备同步: example-bookkeeping-app/how-to guides/sync-devices.md
       - 删除账号: example-bookkeeping-app/how-to guides/delete-account.md
