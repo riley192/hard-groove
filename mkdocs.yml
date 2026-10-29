@@ -54,7 +54,7 @@ nav:
     - 更新日志:
       - v2.0: example-bookkeeping-app/release notes/release notes v2.0.md
     - 反馈与支持: example-bookkeeping-app/support.md
-  - 屠宰废水厂工艺文档包:
+  - 屠宰废水厂工艺文档集:
     - 项目说明: example-wastewater-docs/index.md
     - 一座屠宰废水处理厂是怎么工作的: example-wastewater-docs/docs1.md
     - 叠螺式污泥脱水机操作规程: example-wastewater-docs/docs2.md
@@ -62,6 +62,7 @@ nav:
     - 出水水质异常排查表: example-wastewater-docs/docs4.md
   - 工程图纸选集:
     - 选集说明: drawings/index.md
+    - 高程流程图: drawings/process-flow.md
     - 管线系统图: drawings/piping-systems.md
     - 构筑物工艺图: drawings/structure-process.md
-    - 工艺流程图: drawings/process-flow.md
+    
